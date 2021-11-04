@@ -16,7 +16,7 @@
  /**
   * <p>A simple parser to validate an expression's nesting of parentheses.  
   *  
-  * @author Robert Laniewski <depthn@gmail.com>
+  * @author R. Laniewski <rlaniewski.music@gmail.com>
   * @version 1.0 
   */
 public class ParenthesesCheck {
